@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shoe-store/static/css/main.3e510ebc.chunk.css",
+    "main.js": "/Shoe-store/static/js/main.536baede.chunk.js",
+    "main.js.map": "/Shoe-store/static/js/main.536baede.chunk.js.map",
+    "runtime-main.js": "/Shoe-store/static/js/runtime-main.fb200eca.js",
+    "runtime-main.js.map": "/Shoe-store/static/js/runtime-main.fb200eca.js.map",
+    "static/js/2.57df48bf.chunk.js": "/Shoe-store/static/js/2.57df48bf.chunk.js",
+    "static/js/2.57df48bf.chunk.js.map": "/Shoe-store/static/js/2.57df48bf.chunk.js.map",
+    "static/js/3.c45339a7.chunk.js": "/Shoe-store/static/js/3.c45339a7.chunk.js",
+    "static/js/3.c45339a7.chunk.js.map": "/Shoe-store/static/js/3.c45339a7.chunk.js.map",
+    "index.html": "/Shoe-store/index.html",
+    "static/css/main.3e510ebc.chunk.css.map": "/Shoe-store/static/css/main.3e510ebc.chunk.css.map",
+    "static/js/2.57df48bf.chunk.js.LICENSE.txt": "/Shoe-store/static/js/2.57df48bf.chunk.js.LICENSE.txt",
+    "static/media/banner.5fd2c60d.jpg": "/Shoe-store/static/media/banner.5fd2c60d.jpg",
+    "static/media/App.css": "/Shoe-store/static/media/footer-sprite.b3d5697a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb200eca.js",
+    "static/js/2.57df48bf.chunk.js",
+    "static/css/main.3e510ebc.chunk.css",
+    "static/js/main.536baede.chunk.js"
+  ]
+}
