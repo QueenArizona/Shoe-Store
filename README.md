@@ -1,7 +1,7 @@
 # Shoe store.
 ## Дипломный проект по курсу "React" (Нетология).
 
-Ссылка на опубликованный проект на [github-pages](https://queenarizona.github.io/Shoe-store/).
+Ссылка на опубликованный проект на [github-pages](https://queenarizona.github.io/Shoe-Store/).
 
 Ссылка на [серверную часть](https://github.com/QueenArizona/Shoe-store-backend).
 
